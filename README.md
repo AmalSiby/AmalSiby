@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Amal Siby](http://portfolio-ba37d.web.app/)
+* 🖥️  See my portfolio at [Amal Siby]([http://portfolio-ba37d.web.app/](https://amal-siby-portfolio.web.app/))
 * ✉️  You can contact me at [amalsiby2411@gmail.com](mailto:amalsiby2411@gmail.com)
 * 🧠  I'm learning Full Stack Web Development
 
