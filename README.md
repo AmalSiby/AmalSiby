@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer 🧑‍💻
+Software Developer 🧑‍💻<br/>
 I’m a passionate and results-driven software developer with a strong focus on full-stack web development. I thrive on creating solutions that not only improve system efficiency but also enhance user experience through intuitive design and optimized processes. With expertise in Python, JavaScript, and TypeScript, I’ve built modern, scalable applications using frameworks like Angular, Node.js, MongoDB, and React. My experience extends to working with PostgreSQL and AWS, ensuring robust back-end systems. I’m highly collaborative, often working with cross-functional teams to deliver projects on time, improve performance, and drive user satisfaction.
 
 
